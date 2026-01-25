@@ -1,0 +1,7 @@
+prova.py
+
+data/*
+plots/*
+tables/*
+pycutest_cache_holder
+__pycache__
